@@ -1,7 +1,10 @@
 # All materials from Business Anlytics and Big Data Course of PKU-LSE summer School
 
-__Author__: Jingkai (Kyle) Sun
+__Author__: Jingkai (Kyle) Sun 孙旌凯
+
 __Date Completed__: 2019.8.14
+
+__Email__: jingkai.sun20@imperial.ac.uk
 
 ## Description:
 
